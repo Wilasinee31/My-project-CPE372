@@ -1,1 +1,4 @@
-This project wanted to create new menu in Starbuck by using N-grams
+This project wanted to create new menu in Starbuck by using NLTK for N-grams.
+
+Dataset
+https://www.kaggle.com/datasets/starbucks/starbucks-menu(API : kaggle datasets download -d starbucks/starbucks-menu)
